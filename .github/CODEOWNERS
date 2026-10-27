@@ -1,0 +1,6 @@
+# Repository ownership map. Node inputs, installers and example workflows are release-sensitive.
+*                           @Jascenn
+/node_files/                @Jascenn
+/install.sh                 @Jascenn
+/install.bat                @Jascenn
+/vibecoding_sora-2.json     @Jascenn
